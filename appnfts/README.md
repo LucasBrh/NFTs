@@ -5,5 +5,9 @@ qu'on peut obtenir gratuitement. (j'ai décidé d'utiliser comme réseau de test
 
 Voici les instructions à suivre pour lancer l'application:
 
-cd appntfs
-npm install ethers hardhat @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers
+- cd appnfts
+- npm install ethers hardhat @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers
+- npm install @openzeppelin/contracts
+- npx hardhat run scripts/deploy.js --network goerli
+- npm start
+
