@@ -11,3 +11,10 @@ Voici les instructions à suivre pour lancer l'application:
 - npx hardhat run scripts/deploy.js --network goerli
 - npm start
 
+Une fois sur l'application, vous pouvez acheter une NFT en appuyant sur le bouton jaune.
+Cela vous redigera vers metamask. Connectez-vous à votre compte. Vous pouvez à présent acheter des NFT avec des 
+ethers de test. 
+
+## Lucas BERREHIL EL KATTEL
+## ING5 OCRES 
+## TD02
